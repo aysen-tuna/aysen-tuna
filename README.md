@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi, I’m Aysen Tuna 👋
 
-<!--
-**aysen-tuna/aysen-tuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Developer | 🚀 Passionate about building user-centric web apps | 🌱 Lifelong Learner
 
-Here are some ideas to get you started:
+I have a background in Computer Engineering and completed an intensive Data Science Bootcamp.
+Currently, I am developing full-stack applications and improving my frontend and backend architecture skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how systems work end-to-end — from UI to APIs, authentication, databases, and payment integrations.
+
+## 🚀 My Skills:
+- **Frontend**: React, Next.js, HTML, CSS, JavaScript, TailwindCSS.
+- **Backend**: Node.js, Express, REST APIs.
+- **Database & Auth**: Firebase (Firestore).
+- **DevOps**: GitHub Actions.
+
+## 📂 Featured Projects
+🛒 EcomApp
+
+Full-stack e-commerce application built with Next.js and Firebase.
+Includes authentication, Stripe payments, webhook integration, and automated testing.
+
+Tech Stack: Next.js, Firebase, Stripe, Node.js, Vercel Blob
+👉 GitHub Repository: https://github.com/aysen-tuna/EcomApp
+👉 Live Demo: https://ecom-app-roan.vercel.app
+
+
+🧠 JS Quiz App
+
+JavaScript quiz with score tracking, instant feedback, explanations, and EmailJS integration.
+
+Tech: HTML • CSS • JavaScript • EmailJS
+👉  GitHub Repository: https://github.com/aysen-tuna/js-quiz-app
+
+
+## 📫 Connect With Me
+
+📧 Email: aysena.tuna@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/aysen-tuna
+
