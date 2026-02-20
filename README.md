@@ -2,10 +2,11 @@
 
 👨‍💻 Software Developer | 🚀 Passionate about building user-centric web apps | 🌱 Lifelong Learner
 
-I have a background in Computer Engineering and completed an intensive Data Science Bootcamp.
-Currently, I am developing full-stack applications and improving my frontend and backend architecture skills.
+I focus on building modern web applications with a strong emphasis on clean user experience, structure, and reliability.
 
-I enjoy understanding how systems work end-to-end — from UI to APIs, authentication, databases, and payment integrations.
+I enjoy working across the entire stack and am continuously deepening my frontend and backend architecture skills by developing end-to-end systems — from responsive UI to APIs, authentication, databases, and payment integrations.
+
+As a Computer Engineering graduate, my earlier technical training supports my analytical and structured approach to development and helps me build more reliable, scalable solutions through real-world projects.
 
 ## 🚀 My Skills:
 - **Frontend**: React, Next.js, HTML, CSS, JavaScript, TailwindCSS.
