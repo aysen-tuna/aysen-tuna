@@ -12,9 +12,23 @@ As a Computer Engineering graduate, my earlier technical training supports my an
 - **Frontend**: React, Next.js, HTML, CSS, JavaScript, TailwindCSS.
 - **Backend**: Node.js, Express, REST APIs.
 - **Database & Auth**: Firebase (Firestore).
+- **Deployment**: Vercel, Cloudflare, DNS Management  
 - **DevOps**: GitHub Actions.
 
 ## 📂 Featured Projects
+
+### ♟️ Nicosia Chess Club Website
+
+Modern, responsive website developed for a real organization and currently live in production.
+🔗 **Live:** https://www.nicosiachessclub.org  
+**Tech Stack:** Next.js, React, TypeScript, Sanity CMS, Cloudflare  
+
+**Highlights:**
+- Responsive and user-friendly design  
+- Dynamic content management with Sanity CMS  
+- Fully deployed with custom domain and DNS configuration  
+
+
 🛒 EcomApp
 
 Full-stack e-commerce application built with Next.js and Firebase.
